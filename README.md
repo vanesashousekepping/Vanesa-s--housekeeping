@@ -176,7 +176,8 @@
       <li>📍 Cathedral City</li>
     </ul>
 
-    <h3>Service Area Map</h3>
+    <h3>Service Area Map</h3><img width="1024" height="1536" alt="6d4b38ec-86fe-440c-ad63-6bc81537a404" src="https://github.com/user-attachments/assets/2356e581-631d-4b9c-9594-ecd2eae70036" />
+
     <iframe src="https://www.google.com/maps/d/embed?mid=1mZrGQd6u0lC0Jw6z29pX9T0nC3U&ehbc=2E312F" width="100%" height="400" style="border-radius:15px; border:none;"></iframe>
   </section>
 
